@@ -1,0 +1,162 @@
+p {
+  margin: 0;
+}
+
+.flex-col-hstart-vstart {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+
+.flex-row-vcenter-hsb {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.flex-row-vend-hstart {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: flex-end;
+}
+
+.flex-hcenter {
+  justify-content: center;
+}
+
+.flex-row-vcenter-hstart {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.flex-row-vstart-hstart {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+
+.desktop {
+  padding: 60px 150px;
+  box-sizing: border-box;
+  background: linear-gradient(
+    -40.84deg,
+    rgba(238, 46, 255, 1) 0%,
+    rgba(23, 18, 255, 1) 100%
+  );
+  width: 100%;
+  height: 100vh;
+}
+
+.frame-1484 {
+  margin-bottom: 24px;
+  box-sizing: border-box;
+  width: 100%;
+}
+
+.logo {
+  height: 100%;
+}
+
+.n {
+  width: 109.94px;
+  height: 83px;
+}
+
+.txt-618 {
+  font-size: 54.13px;
+  font-family: Regola Pro, sans-serif;
+  font-weight: 500;
+  letter-spacing: 6.4px;
+  color: rgba(255, 255, 255, 1);
+  text-align: center;
+  word-wrap: break-word;
+}
+
+.frame-1485 {
+  height: fit-content;
+}
+
+.twitter {
+  width: 24px;
+  height: 24px;
+  margin-right: 24px;
+}
+
+.discord-logo-white-1 {
+  width: 24px;
+  height: 18.59px;
+  margin-right: 24px;
+}
+
+.frame-1483 {
+  width: 100%;
+}
+
+.frame-1476 {
+  height: fit-content;
+}
+
+.txt-715 {
+  font-size: 52px;
+  font-family: Regola Pro, sans-serif;
+  font-weight: 600;
+  letter-spacing: 1.6px;
+  color: rgba(255, 255, 255, 1);
+  word-wrap: break-word;
+  margin-bottom: 48px;
+}
+
+.txt-938 {
+  font-size: 22px;
+  font-family: Regola Pro, sans-serif;
+  font-weight: 500;
+  line-height: 164%;
+  letter-spacing: 0.4px;
+  color: rgba(255, 255, 255, 1);
+  width: 472px;
+  word-wrap: break-word;
+  margin-bottom: 48px;
+}
+
+
+.button {
+  padding: 14.5px 22.5px;
+  box-sizing: border-box;
+  border-radius: 70.73px;
+  background: linear-gradient(
+    99.91999999999999deg,
+    rgba(255, 255, 255, 0.4) 0%,
+    rgba(255, 255, 255, 0.07) 100%
+  );
+  border: 1.5px solid rgba(255, 255, 255, 0.5);
+  backdrop-filter: blur(35.02px);
+  box-shadow: 0px 0.6px 14.97px rgba(69, 42, 124, 0.1);
+  height: 100%;
+}
+
+.button-text {
+  font-size: 18px;
+  font-family: Regola Pro, sans-serif;
+  font-weight: 700;
+  letter-spacing: 0.4px;
+  color: rgba(255, 255, 255, 1);
+  text-align: center;
+  word-wrap: break-word;
+}
+
+.card-stack {
+  width: 600px;
+  height: 100%;
+}
+
+.icons {
+  width: 24px;
+  height: 24px;
+  margin-right: 24px;
+}
